@@ -13,7 +13,7 @@
 
 Option Explicit
  
-Sub Main()
+Sub Main
 	iProperties.Value("Custom", "encoded128") = Code128(iProperties.Value("Custom", "raw"))
 	iProperties.Value("Custom", "encoded39") = Code39(iProperties.Value("Custom", "raw"))
 End Sub
