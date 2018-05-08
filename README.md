@@ -10,7 +10,7 @@ iLogic rule for Autodesk Inventor drawing, which can encode raw string to barcod
 
 You need Autodesk Inventor.
 
-Tested in Windows 10 Pro and Autodesk Inventor 2018.
+Tested in Windows 10 Pro and Autodesk Inventor Professional 2018.
 
 ## Authors
 
