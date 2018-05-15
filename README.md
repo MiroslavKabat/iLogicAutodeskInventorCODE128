@@ -2,6 +2,8 @@
 
 iLogic rule for Autodesk Inventor drawing, which can encode raw string to barcode CODE128 or CODE39, which can be places to Drawings automatically.
 
+[![Preview Video](https://img.youtube.com/vi/1CoqCDdEBCw/0.jpg)](http://www.youtube.com/watch?v=1CoqCDdEBCw)
+
 ## Fast start - How to use this project:
 
 * [Youtube](https://youtu.be/1CoqCDdEBCw) - How to simply run this script
